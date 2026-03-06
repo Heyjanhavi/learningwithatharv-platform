@@ -1,4 +1,3 @@
-# learningwithatharv-platform
 # LearningWithAtharv.com
 
 ## Overview
